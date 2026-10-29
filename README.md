@@ -8,6 +8,7 @@ Reusable TypeScript test framework using Playwright Test and page objects.
 npm test
 npm run test:headed
 npm run test:report
+npm run lint
 npm run typecheck
 ```
 
